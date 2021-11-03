@@ -33,5 +33,3 @@ Install PySpeakItOut package by giving command
 
 @krishna_sonune
 
-Author
-@kris
